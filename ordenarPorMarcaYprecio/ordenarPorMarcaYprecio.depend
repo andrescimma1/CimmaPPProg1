@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589843614 source:c:\users\user\desktop\cimmappprog\cimmappprog1\ordenarpormarcayprecio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
